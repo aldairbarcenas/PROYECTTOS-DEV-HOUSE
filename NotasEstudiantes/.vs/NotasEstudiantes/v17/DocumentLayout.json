@@ -3,7 +3,31 @@
   "WorkspaceRootPath": "C:\\Users\\aldai\\OneDrive\\Desktop\\C#\\PROYECTO DEV HOUSE\\NotasEstudiantes\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BA3395A1-384C-43EA-B430-140BCBC8798D}|NotasEstudiantes\\NotasEstudiantes.csproj|c:\\users\\aldai\\onedrive\\desktop\\c#\\proyecto dev house\\notasestudiantes\\notasestudiantes\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{33CC0F74-8EB7-42C6-ABAD-D0299EB0E9BA}|Presentacion\\Presentacion.csproj|c:\\users\\aldai\\onedrive\\desktop\\c#\\proyecto dev house\\notasestudiantes\\presentacion\\ventanaprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33CC0F74-8EB7-42C6-ABAD-D0299EB0E9BA}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\ventanaprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33CC0F74-8EB7-42C6-ABAD-D0299EB0E9BA}|Presentacion\\Presentacion.csproj|c:\\users\\aldai\\onedrive\\desktop\\c#\\proyecto dev house\\notasestudiantes\\presentacion\\registroestudiantes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{33CC0F74-8EB7-42C6-ABAD-D0299EB0E9BA}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\registroestudiantes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33CC0F74-8EB7-42C6-ABAD-D0299EB0E9BA}|Presentacion\\Presentacion.csproj|c:\\users\\aldai\\onedrive\\desktop\\c#\\proyecto dev house\\notasestudiantes\\presentacion\\ventanaprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{33CC0F74-8EB7-42C6-ABAD-D0299EB0E9BA}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\ventanaprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A4EBDE6-FE5D-472E-9396-176D4F25C752}|Entity\\Entity.csproj|C:\\Users\\aldai\\OneDrive\\Desktop\\C#\\PROYECTO DEV HOUSE\\NotasEstudiantes\\entity\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A4EBDE6-FE5D-472E-9396-176D4F25C752}|Entity\\Entity.csproj|solutionrelative:entity\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33CC0F74-8EB7-42C6-ABAD-D0299EB0E9BA}|Presentacion\\Presentacion.csproj|C:\\Users\\aldai\\OneDrive\\Desktop\\C#\\PROYECTO DEV HOUSE\\NotasEstudiantes\\presentacion\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33CC0F74-8EB7-42C6-ABAD-D0299EB0E9BA}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A50F6FD-2307-45F5-8F5D-7439CD004D95}|BLL\\BLL.csproj|C:\\Users\\aldai\\OneDrive\\Desktop\\C#\\PROYECTO DEV HOUSE\\NotasEstudiantes\\bll\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A50F6FD-2307-45F5-8F5D-7439CD004D95}|BLL\\BLL.csproj|solutionrelative:bll\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA3395A1-384C-43EA-B430-140BCBC8798D}|NotasEstudiantes\\NotasEstudiantes.csproj|C:\\Users\\aldai\\OneDrive\\Desktop\\C#\\PROYECTO DEV HOUSE\\NotasEstudiantes\\notasestudiantes\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BA3395A1-384C-43EA-B430-140BCBC8798D}|NotasEstudiantes\\NotasEstudiantes.csproj|solutionrelative:notasestudiantes\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -23,6 +47,81 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "VentanaPrincipal.cs",
+              "DocumentMoniker": "C:\\Users\\aldai\\OneDrive\\Desktop\\C#\\PROYECTO DEV HOUSE\\NotasEstudiantes\\Presentacion\\VentanaPrincipal.cs",
+              "RelativeDocumentMoniker": "Presentacion\\VentanaPrincipal.cs",
+              "ToolTip": "C:\\Users\\aldai\\OneDrive\\Desktop\\C#\\PROYECTO DEV HOUSE\\NotasEstudiantes\\Presentacion\\VentanaPrincipal.cs",
+              "RelativeToolTip": "Presentacion\\VentanaPrincipal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T01:24:39.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RegistroEstudiantes.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\aldai\\OneDrive\\Desktop\\C#\\PROYECTO DEV HOUSE\\NotasEstudiantes\\Presentacion\\RegistroEstudiantes.cs",
+              "RelativeDocumentMoniker": "Presentacion\\RegistroEstudiantes.cs",
+              "ToolTip": "C:\\Users\\aldai\\OneDrive\\Desktop\\C#\\PROYECTO DEV HOUSE\\NotasEstudiantes\\Presentacion\\RegistroEstudiantes.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Presentacion\\RegistroEstudiantes.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T01:22:58.089Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "VentanaPrincipal.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\aldai\\OneDrive\\Desktop\\C#\\PROYECTO DEV HOUSE\\NotasEstudiantes\\Presentacion\\VentanaPrincipal.cs",
+              "RelativeDocumentMoniker": "Presentacion\\VentanaPrincipal.cs",
+              "ToolTip": "C:\\Users\\aldai\\OneDrive\\Desktop\\C#\\PROYECTO DEV HOUSE\\NotasEstudiantes\\Presentacion\\VentanaPrincipal.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Presentacion\\VentanaPrincipal.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T01:15:25.701Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\aldai\\OneDrive\\Desktop\\C#\\PROYECTO DEV HOUSE\\NotasEstudiantes\\Entity\\Class1.cs",
+              "RelativeDocumentMoniker": "Entity\\Class1.cs",
+              "ToolTip": "C:\\Users\\aldai\\OneDrive\\Desktop\\C#\\PROYECTO DEV HOUSE\\NotasEstudiantes\\Entity\\Class1.cs",
+              "RelativeToolTip": "Entity\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T01:07:15.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\aldai\\OneDrive\\Desktop\\C#\\PROYECTO DEV HOUSE\\NotasEstudiantes\\Presentacion\\Class1.cs",
+              "RelativeDocumentMoniker": "Presentacion\\Class1.cs",
+              "ToolTip": "C:\\Users\\aldai\\OneDrive\\Desktop\\C#\\PROYECTO DEV HOUSE\\NotasEstudiantes\\Presentacion\\Class1.cs",
+              "RelativeToolTip": "Presentacion\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T01:07:04.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\aldai\\OneDrive\\Desktop\\C#\\PROYECTO DEV HOUSE\\NotasEstudiantes\\BLL\\Class1.cs",
+              "RelativeDocumentMoniker": "BLL\\Class1.cs",
+              "ToolTip": "C:\\Users\\aldai\\OneDrive\\Desktop\\C#\\PROYECTO DEV HOUSE\\NotasEstudiantes\\BLL\\Class1.cs",
+              "RelativeToolTip": "BLL\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T01:06:27.472Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\aldai\\OneDrive\\Desktop\\C#\\PROYECTO DEV HOUSE\\NotasEstudiantes\\NotasEstudiantes\\Form1.cs",
               "RelativeDocumentMoniker": "NotasEstudiantes\\Form1.cs",
@@ -30,12 +129,11 @@
               "RelativeToolTip": "NotasEstudiantes\\Form1.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-22T17:22:03.94Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-22T17:22:03.94Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
               "Title": "Form1.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\aldai\\OneDrive\\Desktop\\C#\\PROYECTO DEV HOUSE\\NotasEstudiantes\\NotasEstudiantes\\Form1.cs",
               "RelativeDocumentMoniker": "NotasEstudiantes\\Form1.cs",
